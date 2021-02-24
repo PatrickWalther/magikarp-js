@@ -1,0 +1,19 @@
+{
+  "name": "magikarp-js",
+  "version": "1.0.0",
+  "description": "Splish splash, I was taking a bath",
+  "main": "index.js",
+  "homepage": "https://github.com/PatrickWalther/magikarp-js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickWalther/magikarp-js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+	"magikarp",
+	"splash"],
+  "author": "Patrick Walther <develop@pwalther.ch>",
+  "license": "WTFPL"
+}
